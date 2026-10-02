@@ -229,7 +229,7 @@ export default function ContactRBK({ DarkMode }) {
               </div>
 
               <a
-                href="/resume.pdf"
+                href="/Resume.pdf"
                 download="R_Bharathi_Kumar_CV.pdf"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 font-mono text-xs font-bold uppercase tracking-widest bg-[#E43636] text-white rounded-xs hover:bg-[#c92828] transition-colors shrink-0"
               >

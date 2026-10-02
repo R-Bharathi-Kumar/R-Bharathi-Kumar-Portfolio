@@ -161,7 +161,7 @@ export default function Banner({ DarkMode }) {
 
             <div className="mt-2 flex w-full flex-col gap-3 sm:flex-row sm:items-center sm:w-auto">
               <a
-                href="/resume.pdf"
+                href="/Resume.pdf"
                 download="R_Bharathi_Kumar_Resume.pdf"
                 className={`inline-flex items-center justify-center gap-2 border px-5 py-3 sm:py-2.5 font-mono text-sm uppercase tracking-widest transition-colors duration-300 cursor-pointer ${
                   DarkMode
@@ -187,7 +187,7 @@ export default function Banner({ DarkMode }) {
               </a>
 
               <a
-                href="/resume.pdf"
+                href="/Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`inline-flex items-center justify-center gap-2 border px-5 py-3 sm:py-2.5 font-mono text-sm uppercase tracking-widest transition-colors duration-300 cursor-pointer ${
